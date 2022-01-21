@@ -1,7 +1,9 @@
 # PySpark
 CPU-Logs problem solved using the pyspark
 
-version - spark-3.1.2                 Hadoop version  - hadoop-3.2.2
+version - spark-3.1.2                
+
+Hadoop version  - hadoop-3.2.2
 
 Step 1 - Importing findspark and initializing connection
 
